@@ -180,7 +180,63 @@ São produtos diferentes: bateria entrega potência de horas, térmica entrega p
 
 ---
 
-## 9. Fatos para reconfirmar antes do painel
+## 9. Emissões recentes de térmicas: o que o mercado cobra
+
+![Emissões de térmicas vs. NTN-B](emissoes-termicas.png)
+
+| Emissão | Data | Tipo | Volume | Taxa |
+|---|---|---|---|---|
+| Eneva 10ª | mai/24 | Corporativo | n/d | IPCA + 6,56% |
+| Portocem 1ª | 1S25 | Project finance greenfield (BNDES comprou R$ 3,8 bi de R$ 4,5 bi) | R$ 4,5 bi | **IPCA + 9,15%** |
+| Eneva 14ª (Azulão II), 10 anos | jan/26 | Corporativo AAA | R$ 1,5 bi | IPCA + 6,71% |
+| Eneva 14ª (Azulão II), 15 anos | jan/26 | Corporativo AAA | R$ 0,9 bi | IPCA + 6,67% |
+
+**Mensagem:** o crédito corporativo AAA capta **abaixo** da NTN-B (~ −0,8 p.p.). Um projeto isolado saiu **~2 p.p. acima**, e mesmo assim com o BNDES como âncora. Com a NTN-B em 7,7%, um LRCAP greenfield sem garantia corporativa custaria hoje algo como **IPCA + 8,5% a 9,5%** [est.]. É por isso que ninguém quer travar agora, e que os grandes (Eneva, Petrobras, J&F) tendem a financiar no balanço corporativo.
+
+---
+
+## 10. TCU e contratos: onde isso parou
+
+| Data | Evento |
+|---|---|
+| 18/03 | Leilão (18,98 GW) |
+| mar–mai | Ações judiciais em vários estados; área técnica do TCU recomenda suspender as térmicas; MPF pressiona |
+| 21/05 | ANEEL homologa os produtos 2026 (13 usinas) após a Justiça negar suspensão |
+| mai | Comissão de Leilões inabilita **9 usinas da EPP/ION (J&F), ~1,7 GW** (2028–29) + UTE Garuva (88 MW) |
+| 09–11/06 | ANEEL homologa o restante: **95 usinas / 17,4 GW** (2º LRCAP ~90% homologado; 3º LRCAP 100%) |
+| **17/06** | **TCU, por unanimidade, mantém o LRCAP** (relator Jorge Oliveira). Reconhece "falhas relevantes na modelagem, no preço-teto e possivelmente no volume, sobretudo nas térmicas", mas **rejeita suspender** e **rejeita mandar os autos à PF e ao Cade**. Em troca, determina que a AudElétrica investigue **"geradoras de papel"** (capacidade econômico-financeira real dos vencedores) e autoriza inspeções em MME, ANEEL, EPE e ONS |
+| 22/07 | CMSE antecipa para **01/09** quatro térmicas do LRCAP (Termomacaé 818 MW, Três Lagoas 235 MW, Termoceará 175 MW, da Petrobras; Araucária 452 MW, da Âmbar), por causa do risco de El Niño |
+| 01/09 | ANEEL nega pedido da J&F para suspender prazos de garantia de acesso das usinas EPP (exposição de ~R$ 600 mi) |
+| set | Recurso da EPP negado na Comissão; ficam na fila para convocação **Eneva (2 usinas, 790 MW)** e **Global (2 usinas, 555 MW)**; MME outorga 12 térmicas (16/09) |
+
+**Condição para assinar o CRCAP:** termo de compromisso com a transportadora de gás. A ATGás apontou **defasagem de 4,8 MMm³/d** entre o volume informado por ANEEL/EPE e os termos assinados. Além disso, o MME flexibilizou a exigência de capacidade firme de transporte para **70%** da operação a plena carga, e não 100%.
+
+**Leitura para o painel:** o risco "leilão cair" praticamente acabou. O risco que sobra é de **execução e contraparte**: o TCU mirando "geradoras de papel", inabilitações por garantia e conexão, e contratos de gás/transporte abaixo do necessário. É exatamente o que o credor vai diligenciar.
+
+---
+
+## 11. Gás flexível a ~US$ 3/MMBtu: é viável?
+
+**A lógica econômica.** Quem vende gás flexível vende uma **opção**: reserva molécula, regas e transporte o ano todo e pode entregar quase nada. Esse custo fixo precisa ser pago por um prêmio de reserva (capacidade), cobrado com ou sem despacho. A inflexibilidade existia justamente para diluir esse custo no volume.
+
+**US$ 3/MMBtu como prêmio de flexibilidade (sobre o volume contratado, pago sempre): [est.]**
+- 1 GW de ciclo combinado a plena carga consome ~4,5–5 MMm³/d, ou seja, ~**160–180 mil MMBtu/d**.
+- US$ 3 × ~170 mil MMBtu × 365 ≈ **US$ 185 mi/ano por GW ≈ R$ 1,0 bi/ano por GW** (câmbio ~5,5).
+- A receita fixa é de R$ 2,3–2,9 bi/ano por GW. Logo, **~35–45% da RF iria só para a opção de gás**, antes de O&M e serviço da dívida. Cabe, mas aperta o DSCR. O número faz sentido como prêmio **se for cobrado sobre ~70% da capacidade**, que é o piso de transporte firme exigido. Se a ideia for **US$ 3 de molécula** (commodity), é **inviável** com qualquer fonte hoje.
+
+**E com gás da Bolívia ou da Argentina?**
+| | Bolívia | Argentina (Vaca Muerta) |
+|---|---|---|
+| Situação | Produção em declínio; YPFB projeta **–30% de exportação em 2026** e fim da capacidade exportadora por volta de **2030** (2034 no melhor caso). Em 2024 foram só ~14 MMm³/d via Gasbol | Produção recorde, mas o país **ainda importa GNL no inverno** (20–24 cargas em 2026, ~US$ 1,4 bi) e **corta indústria** nos picos de frio |
+| Custo até a fronteira | n/a (o gás acabou) | **US$ 4–5/MMBtu** na fronteira, com trânsito boliviano de **US$ 1,4–2,0/MMBtu** (firme, sazonal ou interruptível) |
+| Volume | Contrato com a Petrobras de até 20 MMm³/d, já flexibilizado | ~2 MMm³/d no curto prazo; ~30 MMm³/d só lá por **2030**, com investimento do lado argentino |
+| Problema de flexibilidade | Sem reserva para servir de "pulmão" | **Descasamento sazonal:** o despacho térmico no Brasil pesa mais na seca (mai–nov), que coincide com o **inverno argentino**, justamente quando o gás argentino some |
+
+**Conclusão:** nem Bolívia nem Argentina conseguem **sozinhas** vender flexibilidade firme e barata. A Bolívia é hoje um **corredor** (trânsito), não mais uma fonte. A Argentina tem molécula, mas na janela errada do ano. Uma flexibilidade crível sai de um **portfólio**: molécula argentina/doméstica na base, **GNL spot como opção de pico**, uso da **linepack** do Gasbol ociosa (capacidade de 30 MMm³/d, transportando 18–20) e, no médio prazo, **estocagem subterrânea**. Quem pode montar esse portfólio são os integrados (Petrobras, Eneva, J&F com termos com Tecpetrol, PAE e YPFB). Supridor independente de gás 100% flexível a US$ 3 me parece **otimista**, salvo se o preço for só o prêmio de reserva e a molécula for cobrada à parte, indexada a Henry Hub/Brent/JKM quando despachar.
+
+---
+
+## 12. Fatos para reconfirmar antes do painel
 - Situação atual do processo no TCU e da assinatura dos CRCAPs (a homologação foi em 21/05, mas havia ações correndo).
 - Última taxa da NTN-B e dado mais recente de incentivadas (boletim ANBIMA de agosto, publicado em setembro).
 - Lista exata de terminais de GNL em operação e capacidade de cada um (fontes divergem entre 5 e 8 terminais).
@@ -216,3 +272,13 @@ São produtos diferentes: bateria entrega potência de horas, térmica entrega p
 - EIA – [US natural gas storage capacity increased slightly in 2025](https://www.eia.gov/todayinenergy/detail.php?id=67745)
 - EIA – [Natural gas for power generation flat this summer](https://www.eia.gov/todayinenergy/detail.php?id=67725)
 - Congress.gov (CRS) – [Interstate Natural Gas Pipeline Siting](https://www.congress.gov/crs-product/R45239)
+
+### Fontes adicionais (seções 9–11)
+- Cenário Energia – [Eneva capta R$ 2,4 bi (14ª emissão)](https://cenarioenergia.com.br/2026/02/10/eneva-capta-r-24-bilhoes-em-debentures-e-reforca-posicao-financeira-com-emissao-avaliada-em-aaabra/)
+- Moody's Local – [Relatório de crédito Portocem (dez/2025)](https://moodyslocal.com.br/wp-content/uploads/2025/12/MLBR_RelatoriodeCredito_Portocem_12.2025vf.pdf) · BNDES – [Apoio à Portocem](https://agenciadenoticias.bndes.gov.br/infraestrutura/Com-R$-38-bi-BNDES-apoia-construcao-de-termeletrica-a-gas-natural-da-Portocem/)
+- ANBIMA Data – [ENEVA0](https://data.anbima.com.br/debentures/ENEVA0/caracteristicas)
+- Cenário Energia – [TCU mantém LRCAP por unanimidade](https://cenarioenergia.com.br/2026/06/17/por-unanimidade-tcu-mantem-lrcap-2026-e-afasta-envio-de-autos-a-pf/) · eixos – [TCU aperta cerco a "geradores de papel"](https://eixos.com.br/energia-eletrica/tcu-nega-pedido-para-suspender-lrcap-mas-aperta-o-cerco-contra-geradores-de-papel/) · Agência iNFRA – [Plenário decide investigar geradoras de papel](https://agenciainfra.com/blog/plenario-do-tcu-decide-investigar-geradoras-de-papel-no-lrcap/)
+- eixos – [Com homologação, novela do LRCAP fica mais próxima do fim](https://eixos.com.br/newsletters/comece-seu-dia/com-homologacao-de-contratos-novela-do-lrcap-fica-mais-proxima-do-fim) · Cenário Energia – [ANEEL exclui 1,7 GW da EPP](https://cenarioenergia.com.br/2026/05/29/aneel-exclui-17-gw-da-epp-do-lrcap-e-reacende-alerta-sobre-seguranca-de-potencia-no-sin/) · Agência iNFRA – [Recurso da EPP negado; Eneva e Global podem ser convocadas](https://agenciainfra.com/blog/lrcap-comissao-nega-recurso-da-epp-eneva-e-global-podem-ser-convocadas/) · LawInfra – [ANEEL nega cautelar da J&F](https://www.lawinfra.com.br/noticias/aneel-nega-cautelar-jf-lrcap-prazo-garantias-2026)
+- ePowerBay – [CMSE antecipa térmicas do LRCAP](https://www.epowerbay.com/single-post/governo-aciona-vencedores-do-lrcap-2026-para-antecipar-geracao) · Cenário Energia – [MME outorga 12 térmicas](https://cenarioenergia.com.br/2026/09/16/mme-outorga-12-termeletricas-vencedoras-do-lrcap-com-operacao-prevista-ate-2031/)
+- Agência iNFRA – [Transportadoras apontam defasagem de gás](https://agenciainfra.com/blog/lrcap-transportadoras-apontam-defasagem-de-gas-para-termicas-contratadas/)
+- eixos – [Bolívia define preço de trânsito do gás argentino](https://eixos.com.br/gas-natural/mercado-de-gas/bolivia-define-preco-para-enviar-gas-argentino-ao-brasil/) · eixos – [Bolívia projeta –30% de exportação em 2026](https://eixos.com.br/gas-natural/mercado-de-gas/bolivia-projeta-reducao-de-30-nas-exportacoes-de-gas-natural-em-2026/) · Times Brasil – [Vaca Muerta via Bolívia e Gasbol](https://timesbrasil.com.br/empresas-e-negocios/infraestrutura/exclusivo-gas-produzido-em-vaca-muerta-na-argentina-pode-chegar-ao-brasil-via-bolivia-e-gasbol-diz-vice-presidente-da-tecpetrol-daniel-valencio/) · Infobae – [Importação de GNL no inverno argentino 2026](https://www.infobae.com/economia/2026/04/17/la-importacion-de-gnl-para-el-invierno-podria-costar-usd-1400-millones-por-el-salto-internacional-de-precios/)
